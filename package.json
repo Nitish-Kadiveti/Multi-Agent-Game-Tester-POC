@@ -1,6 +1,7 @@
 {
   "name": "multi-agent-game-tester",
   "private": true,
+  "homepage": "https://nitish-kadiveti.github.io/Multi-Agent-Game-Tester-POC/"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
